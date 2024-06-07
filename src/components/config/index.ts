@@ -1,0 +1,1 @@
+export { sectionsConfig } from "./config";
