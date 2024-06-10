@@ -1,0 +1,1 @@
+export { NeovimSection } from "./neovim";
